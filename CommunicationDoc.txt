@@ -1,0 +1,9 @@
+
+RGB Bluetooth Arduino Commands
+
+Turn On: 'O' + TERMINATOR
+Turn Off: 'F' + TERMINATOR
+Solid Color: 'C' + RED_VALUE + GREEN_VALUE + BLUE_VALUE + TERMINATOR
+
+
+TERMINATOR: '!'
